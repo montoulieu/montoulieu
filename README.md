@@ -1,7 +1,7 @@
 ### 🖖
 Hey there, I'm **Pieter** — a full stack software engineer currently building with React, Swift UI and Unity 3D. 
 
-### Things I get excited about
+### Things that excite me:
 
 - Fast responsive web apps and SPAs that feel native 🏎
 
