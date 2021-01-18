@@ -1,5 +1,5 @@
 ### 🖖
-Hey there, I'm **Pieter** — a full stack software engineer currently building with React, Swift UI and Unity 3D. 
+Hey there, I'm **Pieter** — a full stack software engineer currently building with Next.js, Expo & Unity 3D.
 
 ### Things I love to work on:
 
